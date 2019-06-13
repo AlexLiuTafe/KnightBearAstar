@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 456d7d12e73b1544dbe075a324fb7cb5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bear_Dodge_Right_0
+    21300002: Bear_Dodge_Right_1
+    21300004: Bear_Dodge_Right_2
+    21300006: Bear_Dodge_Right_3
+    21300008: Bear_Dodge_Right_4
+    21300010: Bear_Dodge_Right_5
+    21300012: Bear_Dodge_Right_6
+    21300014: Bear_Dodge_Right_7
+    21300016: Bear_Dodge_Right_8
+    21300018: Bear_Dodge_Right_9
+    21300020: Bear_Dodge_Right_10
+    21300022: Bear_Dodge_Right_11
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.68345904, y: 0.0049421787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0449cceb34fc747b17fc49713cf9d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 22
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67713195, y: -0.00000011920929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b374151b04a44aa4a8886d34f7623dfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 29
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.14302325, y: 0.007965017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440664d1b22d1e84e902b9d77eb892f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 29
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.13850446, y: 0.002107479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a170e4a02187845adcf5fbc9f8a8d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 27
+        width: 36
+        height: 23
+      alignment: 9
+      pivot: {x: 0.025537279, y: 0.0049090176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfd9eecb50ab1c4993f364e203bbca9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 27
+        width: 36
+        height: 23
+      alignment: 9
+      pivot: {x: 0.06264411, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc0e1d7ea26c414aa66125b2a6bc508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 18
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.10109527, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bf79d3dc8e854449e93bf14f1d86a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_7
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 18
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.15964693, y: 0.008879697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556772886e75524384a01b1af5e3c3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 21
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498674ae9f7408f4d8281fa5b0cc6cf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_9
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 21
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa717b66b7e204388c953023fe7e52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_10
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 21
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.67112076, y: 0.007965017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fd0680582c0d240aeccf3df60392be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Dodge_Right_11
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 21
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.68482316, y: 0.007965017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c476999309d58c41a455a52bccc08e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 16f915e7549daf541a587511d1ccda96
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
